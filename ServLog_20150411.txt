@@ -1,0 +1,8 @@
+Server History for 11/04/2015 00:07:53
+======================================
+ListViewItem: {[Client_60:] Connected at 11/04/2015 00:05.}
+ListViewItem: {[Client_80:] Connected at 11/04/2015 00:05.}
+ListViewItem: {[Client_38:] Connected at 11/04/2015 00:05.}
+ListViewItem: {[Client_80:] Disconnected at 11/04/2015 00:06.}
+
+
